@@ -1,1 +1,0 @@
-# Teste de acesso com token prorrogado - Fri Aug  8 10:01:11 EDT 2025
